@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "Thông tin sinh viên": {
+            "Họ tên": "Nguyễn Văn A",
+            "MSSV": "123456",
+            "Lớp": "CNTT1",
+            "SĐT": "0999888777",
+            "Ngày sinh": "01/01/2000",
+            "Địa chỉ hiện tại": "TPHCM"
+        },
+        "Thông tin gia đình": {
+            "Địa chỉ gia đình": "Long An",
+            "Họ tên bố": "Nguyễn Văn B",
+            "Họ tên mẹ": "Trần Thị C"
+        }
+    },
+    {
+        "id": 2,
+        "Thông tin sinh viên": {
+            "Họ tên": "Nguyễn Văn A",
+            "MSSV": "123456",
+            "Lớp": "CNTT1",
+            "SĐT": "0123456789",
+            "Ngày sinh": "01/01/2000",
+            "Địa chỉ hiện tại": "TPHCM"
+        },
+        "Thông tin gia đình": {
+            "Địa chỉ gia đình": "Long An",
+            "Họ tên bố": "Nguyễn Văn B",
+            "Họ tên mẹ": "Trần Thị C"
+        }
+    },
+    {
+        "id": 3,
+        "Thông tin sinh viên": {
+            "Họ tên": "Nguyễn Văn A",
+            "MSSV": "123456",
+            "Lớp": "CNTT1",
+            "SĐT": "0123456789",
+            "Ngày sinh": "01/01/2000",
+            "Địa chỉ hiện tại": "TPHCM"
+        },
+        "Thông tin gia đình": {
+            "Địa chỉ gia đình": "Long An",
+            "Họ tên bố": "Nguyễn Văn B",
+            "Họ tên mẹ": "Trần Thị C"
+        }
+    },
+    {
+        "id": 4,
+        "Thông tin sinh viên": {
+            "Họ tên": "Nguyễn Văn A",
+            "MSSV": "123456",
+            "Lớp": "CNTT1",
+            "SĐT": "0123456789",
+            "Ngày sinh": "01/01/2000",
+            "Địa chỉ hiện tại": "TPHCM"
+        },
+        "Thông tin gia đình": {
+            "Địa chỉ gia đình": "Long An",
+            "Họ tên bố": "Nguyễn Văn B",
+            "Họ tên mẹ": "Trần Thị C"
+        }
+    }
+]
